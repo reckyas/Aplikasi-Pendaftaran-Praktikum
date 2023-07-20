@@ -1,0 +1,16 @@
+PROSES PEMBUATAN APLIKASI PENDAFTARAN PRAKTIKUM
+1. BUAT DATABASE
+    nama database KAMPUS
+    => tabel praktikum
+        - id_praktikum
+        - nama_praktikum
+        - deskripsi_praktikum
+    => tabel mahasiswa
+        - id_mahasiswa
+        - nama_mahasiswa
+        - nim
+        - prodi
+    => tabel praktikum_mahasiswa
+        - id_pm
+        - id_mahasiswa
+        - id_praktikum
